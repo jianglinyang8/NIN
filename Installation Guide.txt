@@ -4,4 +4,5 @@
 
 NOTE:	When the application runs for the first time, the computation takes a longer
 		time than usual since auto-tuning is being performed. The result of auto-tuning will be
-		saved in the �Data_NIN/CNNdroid_Tuning� directory for the future runs.
+		saved in the ‘Data_NIN/CNNdroid_Tuning’ directory for the future runs.
+Data_NIN文件夹在百度网盘：链接：http://pan.baidu.com/s/1cmuEmy 密码：7evi
