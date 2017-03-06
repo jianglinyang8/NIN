@@ -1,0 +1,7 @@
+1)	Copy the 'Data_NIN' folder to the root of internal storage. (This folder countains both NetFile and required network parameters)
+2)	Install the 'NIN_Demo.apk' application to your Android 5.0+ running smart-phone.
+3)	Run the 'NIN' application.
+
+NOTE:	When the application runs for the first time, the computation takes a longer
+		time than usual since auto-tuning is being performed. The result of auto-tuning will be
+		saved in the ‘Data_NIN/CNNdroid_Tuning’ directory for the future runs.

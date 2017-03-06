@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\andriodproject\NIN\NIN\NIN Demo_Android Studio Project Source\NIN Demo\MyApplication\app\libs\javassist-3.16.1-GA.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="315891b371395271977af518d4db5cee1a0bc9bf">
+        <dex dex="F:\andriodproject\NIN\NIN\NIN Demo_Android Studio Project Source\NIN Demo\MyApplication\app\build\intermediates\pre-dexed\debug\javassist-3.16.1-GA-08e3251a7528b0b0b8141412051b2520111c9f4e.jar" />
+    </item>
+    <item
+        jar="F:\andriodproject\NIN\NIN\NIN Demo_Android Studio Project Source\NIN Demo\MyApplication\app\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c9ad4a0850ab676c5c64461a05ca524cdfff59f1">
+        <dex dex="F:\andriodproject\NIN\NIN\NIN Demo_Android Studio Project Source\NIN Demo\MyApplication\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1-078f00cb04ed13136456b78dc2313a27d077e4bc.jar" />
+    </item>
+    <item
+        jar="F:\andriodproject\NIN\NIN\NIN Demo_Android Studio Project Source\NIN Demo\MyApplication\app\libs\junit-4.8.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c94f54227b08100974c36170dcb53329435fe5ad">
+        <dex dex="F:\andriodproject\NIN\NIN\NIN Demo_Android Studio Project Source\NIN Demo\MyApplication\app\build\intermediates\pre-dexed\debug\junit-4.8.2-a17d42f55931c9882f27568117dca57a2265e7ba.jar" />
+    </item>
+    <item
+        jar="F:\andriodproject\NIN\NIN\NIN Demo_Android Studio Project Source\NIN Demo\MyApplication\app\libs\msgpack-0.6.8.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4a7f406732027c0bd80efa40ec4adbb0741d8c34">
+        <dex dex="F:\andriodproject\NIN\NIN\NIN Demo_Android Studio Project Source\NIN Demo\MyApplication\app\build\intermediates\pre-dexed\debug\msgpack-0.6.8-ffb8552f9744393537bc69d828df1897c88c7e74.jar" />
+    </item>
+
+</items>
